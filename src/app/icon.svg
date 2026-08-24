@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Globe、Wrench、AI Nodesを組み合わせたアイコン">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="5" x2="56" y2="61" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18356F"/>
+      <stop offset="1" stop-color="#0B1734"/>
+    </linearGradient>
+    <linearGradient id="line" x1="13" y1="12" x2="52" y2="53" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#9ED8FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="url(#bg)"/>
+  <circle cx="29" cy="29" r="16.5" fill="none" stroke="url(#line)" stroke-width="2.5"/>
+  <path d="M13 29h32M29 12.5c5 4.4 7.4 10 7.4 16.5S34 41.1 29 45.5M29 12.5c-5 4.4-7.4 10-7.4 16.5 0 3.4.7 6.6 2.1 9.4" fill="none" stroke="url(#line)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M17.5 18.8c3.1 2 7 3.1 11.5 3.1 4.4 0 8.4-1.1 11.5-3.1M17.8 39.6c1.2-.8 2.6-1.4 4.1-1.9" fill="none" stroke="url(#line)" stroke-width="1.8" stroke-linecap="round" opacity=".9"/>
+  <path d="M45.8 36.3a7.2 7.2 0 0 0-8.1 9.4L25.9 57.4a3.2 3.2 0 0 0 4.5 4.5l11.7-11.7a7.2 7.2 0 0 0 9.4-8.1l-4.4 4.4-4-1.1-1.1-4 3.8-5.1Z" fill="#66C7FF" stroke="#E9F8FF" stroke-width="1.7" stroke-linejoin="round"/>
+  <path d="M43.5 14.5 49 10l5.5 4.5M49 10v9.5m-5.5-5 5.5 5 5.5-5" fill="none" stroke="#81E6C8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="49" cy="9.5" r="2.6" fill="#B8FFE9"/>
+  <circle cx="43.2" cy="14.8" r="2.3" fill="#8CEBD0"/>
+  <circle cx="54.8" cy="14.8" r="2.3" fill="#8CEBD0"/>
+</svg>
