@@ -9,11 +9,11 @@ URLと改善Goalを入力すると、制限付きCrawl、決定論的な技術�
 ## Release status
 
 - Vercel: [https://ai-website-improvement-agent.vercel.app](https://ai-website-improvement-agent.vercel.app)（公開済み・Production verifier 3/3・実ブラウザ確認済み）
-- GitHub: `https://github.com/shunsoco-stack/ai-website-improvement-agent`（公開確認待ち）
+- GitHub: [https://github.com/shunsoco-stack/ai-website-improvement-agent](https://github.com/shunsoco-stack/ai-website-improvement-agent)（Public・`main`公開済み）
 - QA: [docs/QA.md](docs/QA.md)
 - ポートフォリオ掲載用完全版プロンプト: [docs/PORTFOLIO_COMPLETE_PROMPT.md](docs/PORTFOLIO_COMPLETE_PROMPT.md)
 
-Vercel、検証件数、Production Screenshotは実測済みです。GitHub公開とSecret Scanは [docs/QA.md](docs/QA.md) のPendingを更新してから完成扱いにします。
+Vercel、GitHub、検証件数、Production Screenshot、Secret Scanは実測済みです。Releaseの証跡と既知の検証範囲は [docs/QA.md](docs/QA.md) に記録しています。
 
 ## Portfolio metadata
 

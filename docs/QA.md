@@ -28,7 +28,7 @@
 | Production Live URL | **PASS** | 2026-08-25 01:12 | `example.com`、Max 3 / Depth 0 / Concurrency 1、1 Page / 2 Issues / Human Review |
 | Production screenshots × 5 | **PASS** | 2026-08-25 01:08 | `docs/screenshots/`、Production実画面 |
 | Browser console errors | **PASS** | 2026-08-25 01:12 | Desktop / Demo / Responsive / Live Runで0件 |
-| GitHub Public | **PENDING** | — | CLI再認証後にURL / commitを記録 |
+| GitHub Public | **PASS** | 2026-08-26 01:13 | `shunsoco-stack/ai-website-improvement-agent`、Public、`main`、source commit `2fba477` |
 | Secret scan | **PASS** | 2026-08-25 01:13 | 67 staged files / 0 findings、ignored artifact混入0 |
 
 ## Automated test matrix
@@ -156,9 +156,9 @@ Rate bucketとactive counterはServerless Function instance内のbest-effort制�
 Vercel URL: https://ai-website-improvement-agent.vercel.app
 Vercel deployment ID: dpl_DBJuDuKPJrYYaq3cZfVbHuxG42Um
 Vercel state: READY
-GitHub URL: PENDING
+GitHub URL: https://github.com/shunsoco-stack/ai-website-improvement-agent
 Default branch: main
-Verified commit: PENDING
+Verified source commit: 2fba477
 Secret scan: PASS — 67 staged files / 0 findings
 ```
 
