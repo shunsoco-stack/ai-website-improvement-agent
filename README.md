@@ -376,13 +376,27 @@ vercel --prod
 
 ## Screenshots
 
-次の5枚をVercel Productionの実画面から取得します。現在のRelease状況は [docs/QA.md](docs/QA.md) を確認してください。
+次の5枚はVercel Productionの実画面から取得済みです。現在のRelease状況は [docs/QA.md](docs/QA.md) を確認してください。
 
-1. `docs/screenshots/01-goal-plan.png` — Goal / Plan
-2. `docs/screenshots/02-crawl-progress.png` — Crawl Progress
-3. `docs/screenshots/03-issue-dashboard.png` — Issue Dashboard
-4. `docs/screenshots/04-issue-detail-evidence.png` — Issue Detail + Evidence
-5. `docs/screenshots/05-improvement-backlog.png` — Improvement Backlog
+### 1. Goal / Plan
+
+![Goal選択と8ステップの監査Plan](docs/screenshots/01-goal-plan.png)
+
+### 2. Crawl Progress
+
+![制限付きCrawlの進捗とActivity Log](docs/screenshots/02-crawl-progress.png)
+
+### 3. Issue Dashboard
+
+![Technical・Content・UX・AccessibilityのIssue Dashboard](docs/screenshots/03-issue-dashboard.png)
+
+### 4. Issue Detail + Evidence
+
+![検出Fact・URL・Source・改善案を示すIssue Detail](docs/screenshots/04-issue-detail-evidence.png)
+
+### 5. Improvement Backlog
+
+![Critical・Quick Win・Medium-term・Optionalの改善Backlog](docs/screenshots/05-improvement-backlog.png)
 
 AI生成の架空UI、DevToolsで差し替えたResult、Loading途中の画面は使用しません。
 
